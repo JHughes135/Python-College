@@ -1,0 +1,8 @@
+1,Don Quixote,Miguel de Cervantes,13.99
+2,A Tale of Two Cities,Charles Dickens,12.90
+3,The Lord of the Rings,J. R. R. Tolkien,20.00
+4,Le Petit Prince,Antoine de Saint-Exupery,10.00
+5,Harry Potter and the Philosopher's Stone,J. K. Rowling,15.20
+6,The Hobbit,J. R. R. Tolkien,14.30
+7,And Then There Were None,	Agatha Christie,9.90
+8,Alice in Wonderland,Lewis Carroll,7.50
